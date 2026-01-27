@@ -24,4 +24,4 @@ If you have ideas for new features or improvements, feel free to open an issue o
 
 ---
 
-Made with 💡 and ☕ by [Suraj](https://github.com/surajsg23)
+Made with 💡 and ☕ by [A Madan]
