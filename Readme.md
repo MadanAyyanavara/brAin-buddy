@@ -1,4 +1,4 @@
-# brAIn buddy 🧠📚
+# brAIn buddy 
 
 Brain Buddy is an AI-powered web app that lets users interact with PDFs intelligently. Upload a PDF and:
 
